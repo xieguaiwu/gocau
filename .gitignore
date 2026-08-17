@@ -1,0 +1,13 @@
+# Binary
+/gocau
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Go
+*.test
+*.out
